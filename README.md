@@ -1,14 +1,15 @@
 ![banner]
 
-##Motivated and Self-Driven Software developer##
+## Motivated and Self-Driven Software developer
 - :airplane: Currently working on -> Flight planner App for Codelex - which will include API, SQL, HTML, CSS, etc.
-###Latest projects###
-:kick_scooter: Scooter renting app, created with TDD.
-:clapper: SQL training - included all kinds of queries as well as unit and integrity tests.
+### Latest projects
++:kick_scooter: Scooter renting app, created with TDD.
++:clapper: SQL training - included all kinds of queries as well as unit and integrity tests.
 
-### About me ###
+### About me 
 Every day is a new day to learn something new.
-And remember :arrow_double_down::arrow_double_down::arrow_double_down:
+And remember /n
+:arrow_double_down::arrow_double_down::arrow_double_down:
   ![keepCoding]
 :globe_with_meridians: Here is my LinkedIn -  [linkedIn][linkedIn]
 
