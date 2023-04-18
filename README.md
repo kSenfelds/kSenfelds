@@ -6,6 +6,6 @@
   ![keepCoding]
 - 📫 How to reach me: :globe_with_meridians: [linkedIn][linkedIn]
 
-[banner]: https://github.com/kSenfelds/kSenfelds/blob/main/banner.png
+[banner]: https://github.com/kSenfelds/kSenfelds/blob/main/bannerKS.png
 [linkedIn]: https://www.linkedin.com/in/kristapssenfelds/
 [keepCoding]: https://github.com/kSenfelds/kSenfelds/blob/main/coding.gif
