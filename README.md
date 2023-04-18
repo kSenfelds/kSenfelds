@@ -7,11 +7,11 @@
 - :clapper: SQL training - included all kinds of queries as well as unit and integrity tests.
 
 ### About me 
-Every day is a new day to learn something new.
-And remember:
-:arrow_double_down::arrow_double_down::arrow_double_down:
-  ![keepCoding]
-:globe_with_meridians: Here is my LinkedIn -  [linkedIn][linkedIn]
+- Every day is a new day to learn something new.
+- And remember
+- :arrow_double_down::arrow_double_down::arrow_double_down:
+- ![keepCoding]
+- :globe_with_meridians: Here is my LinkedIn -  [linkedIn][linkedIn]
 
 [banner]: https://github.com/kSenfelds/kSenfelds/blob/main/bannerKS.png
 [linkedIn]: https://www.linkedin.com/in/kristapssenfelds/
