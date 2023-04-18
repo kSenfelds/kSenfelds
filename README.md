@@ -1,5 +1,4 @@
-![github readme ](https://user-images.githubusercontent.com/70596233/232857983-64835945-9827-4a45-901b-d8cf7da7bc09.png)
-
+[banner][banner]
 
 ##**Software Developer :zap:**
 
@@ -7,5 +6,6 @@
   [keepCoding][keepCoding]
 - 📫 How to reach me: :globe_with_meridians: [linkedIn][linkedIn]
 
+[banner]: https://github.com/kSenfelds/kSenfelds/blob/main/banner.png
 [linkedIn]: https://www.linkedin.com/in/kristapssenfelds/
-[keepCoding]: https://giphy.com/embed/CcwLAV11cALh3OuEJ5
+[keepCoding]: https://github.com/kSenfelds/kSenfelds/blob/main/coding.gif
