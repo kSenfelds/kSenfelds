@@ -1,9 +1,10 @@
-![github readme](https://user-images.githubusercontent.com/70596233/232857168-e3a428e0-2792-40af-838d-3c0e9200622f.png)
+![github readme ](https://user-images.githubusercontent.com/70596233/232857983-64835945-9827-4a45-901b-d8cf7da7bc09.png)
+
 
 ##**Software Developer :zap:**
 
 ### About me ###
-  [keepCoding]
+  ![keepCoding]
 - 📫 How to reach me: :globe_with_meridians: [linkedIn]
 
 [linkedIn] https://www.linkedin.com/in/kristapssenfelds/
