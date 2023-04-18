@@ -4,8 +4,8 @@
 ##**Software Developer :zap:**
 
 ### About me ###
-  ![keepCoding]
-- 📫 How to reach me: :globe_with_meridians: [linkedIn]
+  [keepCoding][keepCoding]
+- 📫 How to reach me: :globe_with_meridians: [linkedIn][linkedIn]
 
-[linkedIn] https://www.linkedin.com/in/kristapssenfelds/
-[keepCoding] https://giphy.com/embed/CcwLAV11cALh3OuEJ5" width="480" height="144" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5
+[linkedIn]: https://www.linkedin.com/in/kristapssenfelds/
+[keepCoding]: https://giphy.com/embed/CcwLAV11cALh3OuEJ5
