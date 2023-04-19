@@ -1,17 +1,29 @@
 ![banner]
 
 ## Motivated and Self-Driven Software developer
-- :airplane: Currently working on -> Flight planner App for Codelex - which will include API, SQL, HTML, CSS, etc.
-### Latest projects
-- :kick_scooter: Scooter renting app, created with TDD.
-- :clapper: SQL training - included all kinds of queries as well as unit and integrity tests.
+---
+Hi, Im a passionate software developer with main experience in backend developement using .NET technologies.
+---
+:globe_with_meridians: My LinkedIn: [linkedIn][linkedIn]
+---
+Main skills:
 
-### About me 
-- Every day is a new day to learn something new.
-- And remember
-- :arrow_double_down::arrow_double_down::arrow_double_down:
-- ![keepCoding]
-- :globe_with_meridians: Here is my LinkedIn -  [linkedIn][linkedIn]
+* Git
+* C#
+* .NET
+* Relational Databases & SQL
+* Entity Framework
+* Unit Testing
+* Test Driven Developement
+* SOLID
+* TypeScript & NodeJS basics
+* Java
+---
+And remember
+:arrow_double_down::arrow_double_down::arrow_double_down:
+---
+![keepCoding]
+
 
 [banner]: https://github.com/kSenfelds/kSenfelds/blob/main/bannerKS.png
 [linkedIn]: https://www.linkedin.com/in/kristapssenfelds/
